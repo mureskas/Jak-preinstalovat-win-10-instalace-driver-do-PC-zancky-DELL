@@ -6,19 +6,26 @@ Na začátek si musíme připravit instalační flash disk budeme potřebovat al
 Instalační soubory stáhneme přímo ze stránek microsoftu: https://www.microsoft.com/cs-cz/software-download/windows10
 Zde sjedete kousek dolů a kliknete na stáhnout nástroj. Poté se naistaluje na váš počítač program se jménem Media creaiton tool
 Ten prokliknete a povolíte ho jako správce, po chvíli se vás program otáže, jestli souhlasíte s podmínkami a dostanete se do okna kde můžete buď udělat upgrade vašeho windowsu v počítači nebo vytvoříte instalační médium
- ![a](https://user-images.githubusercontent.com/106344975/170732859-e2a7c34d-f6c1-4266-bc95-2ea731e06a6d.png)
+
+![a](https://user-images.githubusercontent.com/106344975/170732859-e2a7c34d-f6c1-4266-bc95-2ea731e06a6d.png)
 
 
 po kliknutí na další se objeví další okno kde se program ujišťuje jaké máte parametry windows (jazyk, architektura, …)
 následně se do flashky naistalují potřebné soubory a můžete flashku nyní již používat pro boot vašeho zařízení
 po zapnutí počítače přejdeme do nastavení bootu počítače (každý počítač používá jinou klávesu) 
 nyní zde záleží jaký co se vám objeví, ale flash disk by měl vždy být jako UEFI boot (+ název disku nebo, nápis USB STORAGE) 
+
 ![IMG20220213195800](https://user-images.githubusercontent.com/106344975/170733021-0482d291-3c80-4d4d-b688-a960d6072ef6.jpg)
 
-pokud zde tuto možnost nemáte lze si ji nastavit přímo v BIOSu počítače:![IMG20220213195812](https://user-images.githubusercontent.com/106344975/170733083-0a8a38d5-d34d-4e4f-b4ee-c5501f46350d.jpg)
+pokud zde tuto možnost nemáte lze si ji nastavit přímo v BIOSu počítače:
+![IMG20220213195812](https://user-images.githubusercontent.com/106344975/170733083-0a8a38d5-d34d-4e4f-b4ee-c5501f46350d.jpg)
 
 
-poté co kliknete na možnost bootu UEFI (flashky) tak se vám zapne toto okno:  
+poté co kliknete na možnost bootu UEFI (flashky) tak se vám zapne toto okno: 
+
+![IMG20220213200005](https://user-images.githubusercontent.com/106344975/170733829-73cdb961-409d-45ea-85f6-35b54b76c8f3.jpg)
+
+
 zde klikneme na další a poté na naistalovat: 
 po spuštění instalace se vám ukáže okno pro zadání licenčního klíče pokud ho nemáte stačí kliknout nemám product kod: 
 na dalším okně jste tázáni jak chcete instalovat OS a zde kliknete na jenom nainstalovat windows: 
