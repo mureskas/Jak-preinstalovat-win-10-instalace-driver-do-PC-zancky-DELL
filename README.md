@@ -27,6 +27,10 @@ poté co kliknete na možnost bootu UEFI (flashky) tak se vám zapne toto okno:
 
 
 zde klikneme na další a poté na naistalovat: 
+
+![IMG20220213201121](https://user-images.githubusercontent.com/106344975/170733960-46908274-6b1a-4a3c-80eb-798ff1185625.jpg)
+
+
 po spuštění instalace se vám ukáže okno pro zadání licenčního klíče pokud ho nemáte stačí kliknout nemám product kod: 
 na dalším okně jste tázáni jak chcete instalovat OS a zde kliknete na jenom nainstalovat windows: 
 Nyní musíme určit místo kam naistalovat OS popřípadě toto místo udělat vymazáním dat z disku zde kliknete na nový a poté na formátovat disk:    
