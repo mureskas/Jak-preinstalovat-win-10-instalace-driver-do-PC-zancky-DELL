@@ -33,20 +33,36 @@ zde klikneme na další a poté na naistalovat:
 
 po spuštění instalace se vám ukáže okno pro zadání licenčního klíče pokud ho nemáte stačí kliknout nemám product kod: 
 
+![IMG20220213201747](https://user-images.githubusercontent.com/106344975/170735960-493c0aa3-1287-402a-be7b-c58267d95669.jpg)
 
 
 
 na dalším okně jste tázáni jak chcete instalovat OS a zde kliknete na jenom nainstalovat windows: 
 
+![IMG20220213201807](https://user-images.githubusercontent.com/106344975/170736039-de425a04-982d-48f1-a12c-e1c3e8253fb1.jpg)
 
 
 Nyní musíme určit místo kam naistalovat OS popřípadě toto místo udělat vymazáním dat z disku zde kliknete na nový a poté na formátovat disk:    
 
+![IMG20220213201844](https://user-images.githubusercontent.com/106344975/170736063-dd74e558-d0ce-4e5b-82e2-1501f8084b09.jpg)
+
+![IMG20220213201851](https://user-images.githubusercontent.com/106344975/170736076-bb27e87a-bab7-4b20-bd7a-1c9f0e69b945.jpg)
+
+![IMG20220213201911](https://user-images.githubusercontent.com/106344975/170736088-087fe45a-4bb7-4233-88d3-e31f682574df.jpg)
+
+
+
 Nyní klikneme na další a spustí se instalace:
- 
+
+ ![IMG20220213201917](https://user-images.githubusercontent.com/106344975/170736142-b8116f6e-31ce-46b3-b002-0ebe0aeadaa9.jpg)
+
 Během instalace se bude počítač restartovat a máte chvíli času, než se doinstaluje.
 Jakmile znovu naběhne objeví se okna, která se vás ptají na podmínky jako jsou jazyk, k čemu je počítač určen, microsoft účet, apod. 
+
+![IMG20220213202629](https://user-images.githubusercontent.com/106344975/170736181-1ea93314-a955-4b1c-9acf-01799a50a7ec.jpg)
+
 Poté co si nastavíte počítač tak se spustí.
+
 Nyní jdeme do finální fáze, a to je instalace ovladačů neboli driverů.
 Po zapnutí prohlížeče si napíšete výrobce počítače (v mém případu DELL) a podpora nebo support
 DELL má tu výhodu, že zde je program support assistant který když si stáhnete tak identifikuje váš počítač a najde určité drivery, ale samozřejmě je možné najít si je i po vlastní ose přes výrobní číslo nebo přes model vašeho PC. oté už jen jít do složky stažené soubory a proklikat instalace driverů.
